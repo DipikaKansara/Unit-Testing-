@@ -16,6 +16,7 @@
 		DF38BE9C270D25CC00663720 /* testTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF38BE9B270D25CC00663720 /* testTests.swift */; };
 		DF38BEA6270D25CC00663720 /* testUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF38BEA5270D25CC00663720 /* testUITests.swift */; };
 		DF38BEA8270D25CC00663720 /* testUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF38BEA7270D25CC00663720 /* testUITestsLaunchTests.swift */; };
+		DF38BEB5270D267900663720 /* mathdata.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF38BEB4270D267900663720 /* mathdata.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		DF38BEA1270D25CC00663720 /* testUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = testUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DF38BEA5270D25CC00663720 /* testUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testUITests.swift; sourceTree = "<group>"; };
 		DF38BEA7270D25CC00663720 /* testUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		DF38BEB4270D267900663720 /* mathdata.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mathdata.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				DF38BE8D270D25CC00663720 /* Assets.xcassets */,
 				DF38BE8F270D25CC00663720 /* LaunchScreen.storyboard */,
 				DF38BE92270D25CC00663720 /* Info.plist */,
+				DF38BEB4270D267900663720 /* mathdata.swift */,
 			);
 			path = test;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DF38BE89270D25CB00663720 /* ViewController.swift in Sources */,
+				DF38BEB5270D267900663720 /* mathdata.swift in Sources */,
 				DF38BE85270D25CB00663720 /* AppDelegate.swift in Sources */,
 				DF38BE87270D25CB00663720 /* SceneDelegate.swift in Sources */,
 			);
